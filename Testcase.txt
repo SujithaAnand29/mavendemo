@@ -3,3 +3,5 @@ TC 002
 TC 003
 TC 008
 TC 009
+suji
+manju
